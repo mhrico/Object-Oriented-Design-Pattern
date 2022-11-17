@@ -4,7 +4,7 @@ public class NotificationFactory {
             return new SMSNotification();
         }
         else if(notificationType.equalsIgnoreCase("email")){
-            return new EmailNotification();
+            return new PushNotification();
         }
         else if(notificationType.equalsIgnoreCase("push")){
             return new PushNotification();
