@@ -9,9 +9,8 @@ public class Singleton
 
   public static Singleton getInstance()
   {
-    if(object == null)
-      object = new Singleton();
+    if(object == null) object = new Singleton();
 
-      return object;
+    return object;
   }
 }
