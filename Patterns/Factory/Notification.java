@@ -1,4 +1,4 @@
 public interface Notification
 {
-    public void notifyUser();
+    public void notifyUser(String[] notifcations);
 }
