@@ -1,0 +1,23 @@
+Design Patterns:
+[x]	Creational Patterns:
+[x]	Singleton Pattern
+[x]	Factory Object Pattern
+[x]	Abstract Factory Pattern
+
+Structural Patterns:
+[ ]	Facade Pattern
+[ ]	Adapter Pattern
+[ ]	Composite Pattern
+[ ]	Proxy Pattern
+[ ]	Decorator Pattern
+[ ]	State Pattern
+
+Behavioral Patterns:
+[ ]	Template Method Pattern
+[x]	chain of Responsibility Pattern
+[x]	Command Pattern
+[ ]	Mediator Pattern
+[ ]	Observer Pattern
+[ ]	MVC Pattern
+[ ]	Builder Pattern 
+[ ]	Bridge Pattern
