@@ -11,7 +11,7 @@ Structural Patterns:
 [x]	Composite Pattern
 [x]	Proxy Pattern
 [x]	Decorator Pattern
-[ ]	State Pattern
+[Kichu bujhi nai lol]	State Pattern
 
 Behavioral Patterns:
 [ ]	Template Method Pattern
