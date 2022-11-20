@@ -5,7 +5,7 @@ Design Patterns:
 [x]	Abstract Factory Pattern
 
 Structural Patterns:
-[ ]	Facade Pattern
+[x]	Facade Pattern
 [ ]	Adapter Pattern
 [ ]	Composite Pattern
 [ ]	Proxy Pattern
@@ -14,7 +14,7 @@ Structural Patterns:
 
 Behavioral Patterns:
 [ ]	Template Method Pattern
-[x]	chain of Responsibility Pattern
+[x]	Chain of Responsibility Pattern
 [x]	Command Pattern
 [ ]	Mediator Pattern
 [ ]	Observer Pattern
