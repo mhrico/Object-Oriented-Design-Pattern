@@ -7,7 +7,7 @@ Design Patterns:
 Structural Patterns:
 [x]	Facade Pattern
 [x]	Adapter Pattern
-[ ]	Composite Pattern
+[x]	Composite Pattern
 [ ]	Proxy Pattern
 [ ]	Decorator Pattern
 [ ]	State Pattern
