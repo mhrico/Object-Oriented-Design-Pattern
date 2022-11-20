@@ -9,8 +9,8 @@ Structural Patterns:
 [x]	Facade Pattern
 [x]	Adapter Pattern
 [x]	Composite Pattern
-[X]	Proxy Pattern
-[ ]	Decorator Pattern
+[x]	Proxy Pattern
+[x]	Decorator Pattern
 [ ]	State Pattern
 
 Behavioral Patterns:
