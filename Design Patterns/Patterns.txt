@@ -9,7 +9,7 @@ Structural Patterns:
 [x]	Facade Pattern
 [x]	Adapter Pattern
 [x]	Composite Pattern
-[ ]	Proxy Pattern
+[X]	Proxy Pattern
 [ ]	Decorator Pattern
 [ ]	State Pattern
 
