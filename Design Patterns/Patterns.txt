@@ -5,7 +5,7 @@ Design Patterns:
 [x]	Abstract Factory Pattern
 
 Structural Patterns:
-[ ]	Facade Pattern
+[x]	Facade Pattern
 [ ]	Adapter Pattern
 [ ]	Composite Pattern
 [ ]	Proxy Pattern
