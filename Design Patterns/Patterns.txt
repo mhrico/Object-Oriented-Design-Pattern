@@ -17,7 +17,7 @@ Behavioral Patterns:
 [x]	Template Method Pattern
 [x]	Chain of Responsibility Pattern
 [x]	Command Pattern
-[ ]	Mediator Pattern
+[x]	Mediator Pattern
 [ ]	Observer Pattern
 [ ]	MVC Pattern
 [ ]	Builder Pattern 
