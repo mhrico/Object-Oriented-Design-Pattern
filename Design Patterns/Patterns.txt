@@ -18,7 +18,7 @@ Behavioral Patterns:
 [x]	Chain of Responsibility Pattern
 [x]	Command Pattern
 [x]	Mediator Pattern
-[ ]	Observer Pattern
+[x]	Observer Pattern
 [ ]	MVC Pattern
 [ ]	Builder Pattern 
 [ ]	Bridge Pattern
