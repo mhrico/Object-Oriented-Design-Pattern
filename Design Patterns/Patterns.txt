@@ -14,7 +14,7 @@ Structural Patterns:
 [Kichu bujhi nai lol]	State Pattern
 
 Behavioral Patterns:
-[ ]	Template Method Pattern
+[x]	Template Method Pattern
 [x]	Chain of Responsibility Pattern
 [x]	Command Pattern
 [ ]	Mediator Pattern
