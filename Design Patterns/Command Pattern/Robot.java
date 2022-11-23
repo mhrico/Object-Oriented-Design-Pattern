@@ -1,19 +1,23 @@
-public class Robot {
-    
-    public void walk_forward(){
-        System.out.println("Walking Forward");
+public class Robot{
+    private int x, y;
+
+    public Robot(){
+        System.out.println("Initialized robot at 0, 0");
+    }
+    public void moveForward(){
+        System.out.println("Moving forward. Position: " + ++x + ", " + y);
     }
 
-    public void go_backward(){
-        System.out.println("Going backwards");
+    public void moveBackwards(){
+        System.out.println("Moving backwards. Position: " + --x + ", " + y);
     }
 
-    public void turn_left(){
-        System.out.println("Turning Left");
+    public void moveLeft(){
+        System.out.println("Moving left. Position: " + x + ", " + ++y);
     }
 
-    public void turn_right(){
-        System.out.println("Turning Right");
+    public void moveRight(){
+        System.out.println("Moving right. Position: " + x + ", " + --y);
     }
 
     public void stop(){
