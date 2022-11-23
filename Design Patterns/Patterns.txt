@@ -21,4 +21,4 @@ Behavioral Patterns:
 [x]	Mediator Pattern
 [x]	Observer Pattern
 [x]	MVC Pattern
-[ ]	Bridge Pattern
+[skip]	Bridge Pattern
