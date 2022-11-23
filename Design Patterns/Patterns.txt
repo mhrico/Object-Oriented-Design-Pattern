@@ -4,6 +4,7 @@ Creational Patterns:
 [x]	Singleton Pattern
 [x]	Factory Object Pattern
 [x]	Abstract Factory Pattern
+[ ]	Builder Pattern 
 
 Structural Patterns:
 [x]	Facade Pattern
@@ -11,7 +12,7 @@ Structural Patterns:
 [x]	Composite Pattern
 [x]	Proxy Pattern
 [x]	Decorator Pattern
-[Kichu bujhi nai lol]	State Pattern
+[x]	State Pattern
 
 Behavioral Patterns:
 [x]	Template Method Pattern
@@ -19,6 +20,5 @@ Behavioral Patterns:
 [x]	Command Pattern
 [x]	Mediator Pattern
 [x]	Observer Pattern
-[ ]	MVC Pattern
-[ ]	Builder Pattern 
+[x]	MVC Pattern
 [ ]	Bridge Pattern
